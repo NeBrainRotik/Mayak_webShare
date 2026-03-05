@@ -69,7 +69,7 @@ function App() {
               </p>
               <div className="hero-actions">
                 <DownloadButton className="primary" label="Download for Android" />
-                <button className="secondary">How it works</button>
+                {/* <button className="secondary">How it works</button> */}
               </div>
               <div className="mini-stats">
                 {/* <div>
